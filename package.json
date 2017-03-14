@@ -1,0 +1,25 @@
+{
+  "name": "kathy",
+  "version": "1.0.0",
+  "description": "chat bot en Messenger implementado con NODE JS y API.AI de google, el bot consume un servicio de otra plataforma.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KathyLiz/ChatBot.git"
+  },
+  "keywords": [
+    "Messenger",
+    "API.AI",
+    "Facebook",
+    "Node"
+  ],
+  "author": "Interlancompu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KathyLiz/ChatBot/issues"
+  },
+  "homepage": "https://github.com/KathyLiz/ChatBot#readme"
+}
